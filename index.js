@@ -7,6 +7,14 @@ function the BeatlesPlay(bandMembers, instuments) {
   return arr;
 }
 
+function johnLennonFacts(facts) {
+  
+}
+
+function iLoveTheBeatles(num) {
+  var arr = [];
+}
+
 
 
 // `string text ${expression} string text`
