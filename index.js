@@ -1,4 +1,4 @@
-function the BeatlesPlay(bandMembers, instuments) {
+function theBeatlesPlay(bandMembers, instuments) {
   var arr = [];
 
   for (var i = 0; i < bandMembers.length; i++) {
